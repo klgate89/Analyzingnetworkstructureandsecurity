@@ -66,4 +66,4 @@ restored.
 	<td>Recover</td>
 	<td>To recover from a DDoS attack by ICMP flooding, access to network services need to be restored to a normal functioning state. In the future, external ICMP flood attacks can be blocked at the firewall. Then, all non-critical network services should be stopped to reduce internal network traffic. Next, critical network services should be restored first. Finally, once the flood of ICMP packets have timed out, all non-critical network systems and services can be brought back online.</td>
 </tr>
-</table>
+</table>✌🏾
